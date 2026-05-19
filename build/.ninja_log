@@ -1,0 +1,7 @@
+# ninja log v7
+1	106	8008686012611466	CMakeFiles/linked_list_example.dir/examples/main.c.obj	b2e27ac8fb3644c
+16	116	8008686012762052	CMakeFiles/test_linked_list.dir/src/linked_list.c.obj	95763c0104700aa8
+10	117	8008686012691097	CMakeFiles/test_linked_list.dir/tests/test_linked_list.c.obj	1a70432ebb08c3b3
+5	126	8008686012651476	CMakeFiles/linked_list_example.dir/src/linked_list.c.obj	b2656e50564dfd06
+117	255	8008686013762147	test_linked_list.exe	88133915b619fb1d
+126	257	8008686013852169	linked_list_example.exe	6b4380e2688a4c23

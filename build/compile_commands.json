@@ -1,0 +1,26 @@
+[
+{
+  "directory": "D:/2.work/4_education/1_C/7_c_linked_list/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/7_c_linked_list/include -g -std=gnu99 -o CMakeFiles\\linked_list_example.dir\\examples\\main.c.obj -c D:\\2.work\\4_education\\1_C\\7_c_linked_list\\examples\\main.c",
+  "file": "D:/2.work/4_education/1_C/7_c_linked_list/examples/main.c",
+  "output": "D:/2.work/4_education/1_C/7_c_linked_list/build/CMakeFiles/linked_list_example.dir/examples/main.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/7_c_linked_list/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/7_c_linked_list/include -g -std=gnu99 -o CMakeFiles\\linked_list_example.dir\\src\\linked_list.c.obj -c D:\\2.work\\4_education\\1_C\\7_c_linked_list\\src\\linked_list.c",
+  "file": "D:/2.work/4_education/1_C/7_c_linked_list/src/linked_list.c",
+  "output": "D:/2.work/4_education/1_C/7_c_linked_list/build/CMakeFiles/linked_list_example.dir/src/linked_list.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/7_c_linked_list/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/7_c_linked_list/include -g -std=gnu99 -o CMakeFiles\\test_linked_list.dir\\tests\\test_linked_list.c.obj -c D:\\2.work\\4_education\\1_C\\7_c_linked_list\\tests\\test_linked_list.c",
+  "file": "D:/2.work/4_education/1_C/7_c_linked_list/tests/test_linked_list.c",
+  "output": "D:/2.work/4_education/1_C/7_c_linked_list/build/CMakeFiles/test_linked_list.dir/tests/test_linked_list.c.obj"
+},
+{
+  "directory": "D:/2.work/4_education/1_C/7_c_linked_list/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\gcc.exe -ID:/2.work/4_education/1_C/7_c_linked_list/include -g -std=gnu99 -o CMakeFiles\\test_linked_list.dir\\src\\linked_list.c.obj -c D:\\2.work\\4_education\\1_C\\7_c_linked_list\\src\\linked_list.c",
+  "file": "D:/2.work/4_education/1_C/7_c_linked_list/src/linked_list.c",
+  "output": "D:/2.work/4_education/1_C/7_c_linked_list/build/CMakeFiles/test_linked_list.dir/src/linked_list.c.obj"
+}
+]
