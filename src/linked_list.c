@@ -16,7 +16,14 @@ bool linked_list_push_front(linked_list_t *list, linked_list_node_t *node)
         return false;
     }
     node->next = list->head;
-    list->head = node;
+    /*
+    1. node->next = NULL
+    2. node->next = node->next - 1
+
+    head node3 -> node2 -> node1
+    */ 
+
+    list->head = node;  // Head записав адрес на node
     list->count++;
 
     return true;
